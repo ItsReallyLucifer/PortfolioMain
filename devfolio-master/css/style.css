@@ -1264,3 +1264,9 @@ footer .credits a {
   }
 }
 
+
+
+.about-ico { 
+    display: inline-block;
+    margin-right: 25px; 
+  }
