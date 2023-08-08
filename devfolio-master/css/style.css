@@ -1268,5 +1268,10 @@ footer .credits a {
 
 .about-ico { 
     display: inline-block;
-    margin-right: 25px; 
+    margin-right: 25px;
+    transition: 0.2s;
+  }
+
+  .about-ico:hover {
+    transform: scale(1.1);
   }
