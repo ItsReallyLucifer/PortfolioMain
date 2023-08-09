@@ -1268,3 +1268,14 @@ footer .credits a {
   .about-ico:hover {
     transform: scale(1.1);
   }
+
+
+  
+.mySkills {
+  text-decoration: underline solid #0078ff;
+  text-underline-offset: 10px;
+  font-size: 35px;
+  font-weight: 600;
+  color: black;
+  text-decoration-skip-ink: none;
+}
