@@ -115,3 +115,14 @@
 	});
 
 })(jQuery);
+
+
+
+const sendMessageButton = document.getElementById('sendMessageButton');
+const messageDisplay = document.getElementById('messageDisplay');
+
+
+sendMessageButton.addEventListener('click', function() {
+  messageDisplay.textContent = 'Message sent';
+  messageDisplay.style.color = 'green';
+});
